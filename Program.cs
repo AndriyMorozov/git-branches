@@ -1,2 +1,2 @@
-Console.WriteLine("Hello, world!");
+Console.WriteLine("Hello, university!");
 Console.ReadLine();
