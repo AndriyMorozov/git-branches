@@ -1,2 +1,5 @@
-Console.WriteLine("Hello, world!");
+Console.WriteLine("Hello!");
 Console.ReadLine();
+Console.ReadKey();
+/* comment */
+
